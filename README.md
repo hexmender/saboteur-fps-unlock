@@ -1,5 +1,8 @@
 # The Saboteur FPS Unlock: uncapped FPS, no input lag (GOG)
 
+<img width="2560" height="1440" alt="09EjlYVy1o" src="https://github.com/user-attachments/assets/2e2ecd4d-5929-4fb6-9201-41ffb47b04f4" />
+
+
 > **GOG version only.**
 
 I vibe-coded this in one evening. I've never played this game. I got a new 240 Hz monitor, wanted more than 60 FPS, looked for a fix, found nothing, so I asked Claude to make one.
@@ -11,6 +14,10 @@ There are bugs. At the very least you can shove pedestrians around like a tank, 
 I did a quick pass and added a bunch of small fixes on top. If anyone wants to polish it further, that would be awesome: fork it, fix stuff, send PRs.
 
 <!-- demo video: drag SaboteurFix_demo.mp4 here in the GitHub editor -->
+
+https://github.com/user-attachments/assets/004ab0d4-88a4-448a-a873-fc079c0a8f98
+
+
 
 ## What it is
 
