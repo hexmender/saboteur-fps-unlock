@@ -1,0 +1,6 @@
+dist/
+*.dll
+*.exe
+*.orig
+__pycache__/
+plugin/target/
